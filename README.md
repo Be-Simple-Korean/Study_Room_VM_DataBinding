@@ -1,4 +1,3 @@
-# Study_Room_VM_DataBinding
 # Room
 * 안드로이드에서 권장하는 내부 DB 라이브러리
 * ### 구성요소
